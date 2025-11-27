@@ -1,4 +1,11 @@
-# MehguViewer
+<div align="center">
+  <picture>
+    <img alt="MehguViewer Thumbnail" src="/thumbnail.png" width="400">
+  </picture>
+</div>
+
+
+# <picture><img alt="MehguViewer Logo" src="/logo-light.png" height="32"></picture> MehguViewer <picture><img alt="MehguViewer Logo" src="/logo-dark.png" height="32"></picture>
 
 > **The High-Performance Federated Media Protocol.**
 
