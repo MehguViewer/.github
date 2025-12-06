@@ -8,7 +8,7 @@
 
 > **The High-Performance Federated Media Protocol.**
 
-[![License](https://img.shields.io/badge/License-MIT-zinc?style=flat-square)](./LICENSE)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-zinc.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Protocol](https://img.shields.io/badge/Spec-OpenAPI%203.1-zinc?style=flat-square&logo=openapiinitiatives)](https://github.com/MehguViewer/MehguViewer.Proto)
 [![Stack](https://img.shields.io/badge/.NET-Native%20AOT-512BD4?style=flat-square&logo=dotnet)](https://github.com/MehguViewer/MehguViewer.Core)
 
